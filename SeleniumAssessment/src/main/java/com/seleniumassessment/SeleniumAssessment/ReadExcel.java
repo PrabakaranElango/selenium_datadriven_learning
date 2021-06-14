@@ -3,7 +3,7 @@ package com.seleniumassessment.SeleniumAssessment;
 
 public class ReadExcel {
 		
-     ExcelDataConfig excel = new ExcelDataConfig("C:\\Users\\sabariecs\\Downloads\\Prabakaran\\Lennox.xlsx");
+     ExcelDataConfig excel = new ExcelDataConfig("C:\\Users\\sabariecs\\eclipse-workspace\\SeleniumAssessment\\Lennox.xlsx");
 
 	
 	public String getexecution(){		
